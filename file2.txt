@@ -1,2 +1,3 @@
 second file
 BBBBB
+B in file2.

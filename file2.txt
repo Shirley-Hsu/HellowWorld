@@ -2,3 +2,4 @@ second file
 fix bug
 BBBBB
 A B both in file2.
+add function 
